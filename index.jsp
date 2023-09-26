@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Fake News Detection In Twitter</title>
+        <title>Project Name</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
         <link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
@@ -24,14 +24,14 @@
                     </div>
                 </div>
             </div>
-            <div class="content" style="background-image: url('img/bg2.jpg');">
+            <div class="content" style="background-image: url('img/index.png');">
                 <div id="pageintro" class="hoc clear">
                     <!-- ################################################################################################ -->
                     <div class="flexslider basicslider">
                         <ul class="slides">
                             <li>
                                 <article>
-                                    <center><b><span style="font-size: 50px;color:white;"><br><br>Fake news Detection In Twitter<br><br><br><br></span></b></center>
+                                    <center><b><span style="font-size: 28px;color:red;"><br><br>Project Name<br><br><br><br></span></b></center>
                                     <footer>
                                         <form class="group" method="post" action="#">
                                             <fieldset>

@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Fake News Detection In Twitter</title>
+        <title>Project Name</title>
         <meta charset="utf-8">
         <style>
             .button {
@@ -64,14 +64,14 @@
                 String name = (String) session.getAttribute("suname");
                 System.out.println("------------- : " + semail);
             %>
-            <div class="content" style="background-image: url('img/compose1.jpg');">
+            <div class="content" style="background-image: url('img/user_home.jpg');">
                 <div id="pageintro" class="hoc clear">
                     <!-- ################################################################################################ -->
                     <div class="flexslider basicslider">
                         <ul class="slides">
                             <li>
                                 <article>
-                                    <center><b><span style="font-size: 28px;color:red;">WELCOME</span></b></center>
+                                    <center><b><span style="font-size: 28px;color:red;">Project Name</span></b></center>
                                     <br><center>
                                         <font style="font-family: fantasy; font-size: 26px;color:red;">
                                         <%=name%>

@@ -29,7 +29,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Fake News Detection In Twitter</title>
+        <title>Project Name</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
         <link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
         <link rel="stylesheet" href="css/style.css">
@@ -94,7 +94,7 @@
 
             %>
 
-            <div class="content" style="background-image: url('img/compose.jpg');">
+            <div class="content" style="background-image: url('img/change_password.jpg');">
                 <div class="wrapper row1">
                     <header id="header" class="hoc clear">
                         <div class="container">

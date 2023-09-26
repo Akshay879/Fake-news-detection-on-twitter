@@ -33,7 +33,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Fake News Detection In Twitter</title>
+        <title>Project Name</title>
         <meta charset="utf-8">
         <script>
             function countChar(val) {
@@ -84,7 +84,7 @@
             <!-- ################################################################################################ -->
             <!-- ################################################################################################ -->
         </div>
-        <div class="wrapper row4" style="background-image: url('img/compose1.jpg');">
+        <div class="wrapper row4" style="background-image: url('img/compose.jpg');">
             <main class="hoc container clear">
                 <div class="center btmspace-80">
                     <h3 class="heading" style="color:red;font-size: 20px;">Compose New Tweet Here!!</h3>

@@ -33,7 +33,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Fake News Detection In Twitter</title>
+        <title>Project Name</title>
         <script type="text/javascript" src="user_charts.js"></script>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
         <link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
@@ -133,7 +133,7 @@
         <%                String semail = (String) session.getAttribute("semail");
 
         %>
-        <div class="content" style="background-image: url('img/graph1.jpg');">
+        <div class="content" style="background-image: url('img/graph.jpg');">
             <div id="pageintro" class="hoc clear">
                 <div style="background-color: #fff">
                     <div id="myChart"></div>

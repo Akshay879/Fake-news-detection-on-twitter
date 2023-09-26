@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Fake News Detection In Twitter</title>
+        <title>Project Name</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
         <link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
@@ -43,7 +43,7 @@
                     </div>
                 </div>
             </div>
-            <div class="content" style="background-image: url('img/change_pwd.jpg');">
+            <div class="content" style="background-image: url('img/register.jpg');">
                 <div class="wrapper row1">
                     <header id="header" class="hoc clear">
                         <div class="container">
@@ -52,7 +52,7 @@
                                 <form method="post" action="uploadServlet" enctype="multipart/form-data" onsubmit="return validate();">
                                     <input type="text" name="uname" placeholder="User Name" required="required" class="input-txt" />
                                     <input type="email" name="email" placeholder="Email" required="required" class="input-txt" />
-                                    <span class="label info" style="background-color: #2196F3;font-size:18px;">Password Length 6, Atleast 1 number and 1 Alphabet.... </span>
+                                    <span class="label info" style="background-color: #2196F3;font-size:18px;">Password Lenght 6, Atleast 1 number and 1 Alphabet.... </span>
                                     <input type="password" name="password" placeholder="Password" required="required" class="input-txt" pattern="^(?=.*[0-9])(?=.*[a-z]).{6,}$"/>
                                     <input type="file" name="photo" required="required" class="input-txt" />
                                     <div class="login-footer">

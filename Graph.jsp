@@ -30,7 +30,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Fake News Detection In Twitter</title>
+        <title>Simple JSP Demo</title>
         <script type="text/javascript" src="https://cdn.zingchart.com/zingchart.min.js"></script>
     </head>
     <body>
