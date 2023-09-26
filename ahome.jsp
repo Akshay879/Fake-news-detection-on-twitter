@@ -14,7 +14,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Fake News Detection In Twitter</title>
+        <title>Project Name</title>
         <meta charset="utf-8">
         <style>
             .button {
@@ -80,7 +80,7 @@
 
             <!-- ################################################################################################ -->
         </div>
-        <div class="wrapper row3 overlay" style="background-image: url('img/admin_home1.jpg');">
+        <div class="wrapper row3 overlay" style="background-image: url('img/admin_home.jpg');">
             <main class="hoc container clear">
                 <!-- main body -->
                 <!-- ################################################################################################ -->
